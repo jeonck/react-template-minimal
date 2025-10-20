@@ -5,7 +5,7 @@ import About from './pages/About';
 
 function App() {
   return (
-    <Router basename="/react-template-v1/">
+    <Router basename="/react-template-minimal/">
       <div className="min-h-screen bg-gray-50">
         <Navbar />
         <main className="container mx-auto px-4 py-8 max-w-7xl">
